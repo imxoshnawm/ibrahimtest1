@@ -1,0 +1,43 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "پڕۆژەی یەکەم",
+        "shortDescription": "کورتە بەربژێرەی پڕۆژەی یەکەم",
+        "description": "وردەکارییەکان لەسەر پڕۆژەی یەکەم...",
+        "image": "images/project1.jpg",
+        "technologies": ["HTML", "CSS", "JS"],
+        "link": "https://example.com/project1",
+        "date": "2025-01-01"
+      },
+      {
+        "id": 2,
+        "title": "پڕۆژەی دووەم",
+        "shortDescription": "کورتە بەربژێرەی پڕۆژەی دووەم",
+        "description": "وردەکارییەکان لەسەر پڕۆژەی دووەم...",
+        "image": "images/project2.jpg",
+        "technologies": ["Python", "Django"],
+        "link": "https://example.com/project2",
+        "date": "2025-02-15"
+      }
+    ],
+    "reports": [
+      {
+        "id": 101,
+        "title": "ڕاپۆرتی یەکەم",
+        "shortDescription": "کورتەی ڕاپۆرتی یەکەم",
+        "description": "وردەکاریی ڕاپۆرتی یەکەم...",
+        "image": "images/report1.jpg",
+        "date": "2025-02-01"
+      },
+      {
+        "id": 102,
+        "title": "ڕاپۆرتی دووەم",
+        "shortDescription": "کورتەی ڕاپۆرتی دووەم",
+        "description": "وردەکاریی ڕاپۆرتی دووەم...",
+        "image": "images/report2.jpg",
+        "date": "2025-03-10"
+      }
+    ]
+  }
+  
